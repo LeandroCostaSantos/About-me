@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeandroCostaSantos
 - 👀 I’m married with Amanda, and I love to spend my spare time with her.
-- 🌱 I’m currently learning Python, and after I would learn Flash and Django.
+- 🌱 I’m currently learning Python, and after I would learn Flask and Django.
 - 📫 How to reach me: E-mail: leandrocostasantos01@gmail.com // LinkedIn: https://www.linkedin.com/in/leandro-costa-santos-73241747/
 
 <!---
