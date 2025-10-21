@@ -1,5 +1,5 @@
 - Hi, I'm Leandro Costa Santos
-- I’m currently studying to be a Software Engineering
+- I'm currently studying Computer Science (AI) at Nottingham Trent University
 - I started to learn HTML, CSS and JavaScript.
 - My plans are to learn Python, and also other programming languages and their frameworks
 - My objective is to always keep myself updated, and always seek more!
