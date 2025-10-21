@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Leandro Costa Santos
+# Hi there! 👋 I'm Leandro
 
 <div align="center">
   
