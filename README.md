@@ -20,8 +20,7 @@ I'm a Computer Science (AI) student at **Nottingham Trent University**, passiona
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -47,6 +46,9 @@ I'm a Computer Science (AI) student at **Nottingham Trent University**, passiona
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroCostaSantos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeandroCostaSantos&theme=tokyonight&hide_border=true)
+
+  [![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
+
 
 </div>
 
